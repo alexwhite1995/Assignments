@@ -1,0 +1,40 @@
+{
+  "voice_referendum": [
+    "voice",
+    "referendum",
+    "vote yes",
+    "vote no",
+    "yes23",
+    "no23",
+    "uluru",
+    "first nations",
+    "aboriginal and torres strait islander"
+  ],
+  "federal_election_2022": [
+    "federal election",
+    "election",
+    "vote labor",
+    "vote liberal",
+    "greens",
+    "coalition",
+    "albanese",
+    "morrison"
+  ],
+  "climate_energy": [
+    "climate",
+    "renewable",
+    "emissions",
+    "net zero",
+    "coal",
+    "gas",
+    "energy prices"
+  ],
+  "cost_of_living": [
+    "cost of living",
+    "rent",
+    "mortgage",
+    "inflation",
+    "wages",
+    "household bills"
+  ]
+}
